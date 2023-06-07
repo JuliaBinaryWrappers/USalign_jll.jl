@@ -1,0 +1,288 @@
+[[USalign]]
+arch = "aarch64"
+git-tree-sha1 = "0570d11ebe0f56b5e42ac7d8934899db4c06d863"
+os = "macos"
+
+    [[USalign.download]]
+    sha256 = "c632bc54f653d8b059ef1f4b1e4bbbf7b9aa61c3214c27bc8c349dd3fd431ea4"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.aarch64-apple-darwin.tar.gz"
+[[USalign]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "63682fb5a5eb53eca6aa76fd621afda86206349b"
+libc = "glibc"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "24b5a629a50c66e0d94cef25e0e39b92e06de77b822b62e02e3a04a8156dcc9a"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.aarch64-linux-gnu-cxx03.tar.gz"
+[[USalign]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cf152fb6e1a37056e3df5884c1556b845cc58016"
+libc = "glibc"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "5121f599c09ac2d0dff44f739e078b0cccadd03899ff2e4f9768747063e3952b"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.aarch64-linux-gnu-cxx11.tar.gz"
+[[USalign]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "79f5f8126a62f1795eda2be40a47209e83a506eb"
+libc = "musl"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "bd9692a5a792d980f8eb658f7a59c229aac8994f89772f913618d83af854e03d"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.aarch64-linux-musl-cxx03.tar.gz"
+[[USalign]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2597a6ab6543b330cfb6295827d4383b9e94199f"
+libc = "musl"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "ed7eb6051b7ba7698c5af6c22048af70cd9fcafccb71d922de5d596eae243018"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.aarch64-linux-musl-cxx11.tar.gz"
+[[USalign]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3d4c1b4e20c26ef0d45211ffb6993eca589b698b"
+libc = "glibc"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "820af9ae77e4da8399403772b05540f9aa2687050fb100c01abc5fd4b25ab411"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[USalign]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eb9a9ebcbf9ebe86c03c036bb8014614f7dafff9"
+libc = "glibc"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "a72980a4fe194d3de565cf6f2e2fccc5354d712bab88ffd346d88976b767fdf2"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[USalign]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "39aa6549e3b5124335f419573166133915475246"
+libc = "musl"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "d527de428bcae3f9c557a33c0b26bd9b9534b8a374267fcdb37e2663235ce400"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[USalign]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f28755f077d4e5b50082d8b1d5bd688e7e8e9fdd"
+libc = "musl"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "4d4286e89a4bee0819cfac5ac1b3b2b26168bd5e148408240f9438d787fc6215"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[USalign]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6e721b484908e8b68ff57eda1351417ce891f533"
+libc = "glibc"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "3a75fef8eea8b3ce40186d0a3ab05a7c38b3cc3a89b5511d9c4d1de64cd32352"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[USalign]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "167c9d38a0deb1892861428b2bb7a671357febdb"
+libc = "glibc"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "8a9e3bb04e7e7d40faa0bac8925ebe007204823ef7a3b29cd79e48f67c7d78ae"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[USalign]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0c4cd19d4c4adab6eb9cc32dcc99ca138444fb2f"
+libc = "musl"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "8ca9bdd538de9b486fef012ad1078b697f385ac0f2e4e7f741e1d8e73daefc53"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[USalign]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f1deec3109c52c5bd19057e9151e8f629fb393bb"
+libc = "musl"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "6ce98518185aa9dafe3dbfaca5956e3f286d64b41458a32181e47000fcb65a7b"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[USalign]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c23582b2c099ac6bcb2d6f82353e162388128be2"
+libc = "glibc"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "772eb3df92774deec812824b0f98bd4ec7e90a21c172a10048e503843b61b6f2"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.i686-linux-gnu-cxx03.tar.gz"
+[[USalign]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "de1b0e6b0fa1142fe9aec907a6a3c7d3faf07405"
+libc = "glibc"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "93cdc85eba0cee9d9c7c6d046f4cc9c726397bdd0257806f6f38b65b9534fd06"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.i686-linux-gnu-cxx11.tar.gz"
+[[USalign]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "02ac0ede795f8820fbf1f637a21a12d12eec9e49"
+libc = "musl"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "32e435b3fdb120eb051fb4f21a29d793634b109f579ff094df490b9614c1a3cb"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.i686-linux-musl-cxx03.tar.gz"
+[[USalign]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ee3f782ce5dc0c87c7104b71cf96293086d2a551"
+libc = "musl"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "a859fe1032fc2f0a11e01cb62293582ac3de51faa4503d68fed878fcfe560674"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.i686-linux-musl-cxx11.tar.gz"
+[[USalign]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1f0ec3e813d71de6467b70010ee65a7ffeaed097"
+os = "windows"
+
+    [[USalign.download]]
+    sha256 = "6980952d1efa43e52f14347b4e4a4850065b098629f91b8242aa509bf2d97250"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.i686-w64-mingw32-cxx03.tar.gz"
+[[USalign]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b4bdc7cf8dcd324ef1238c83aef5f28147ecb16c"
+os = "windows"
+
+    [[USalign.download]]
+    sha256 = "791400e46750bad97657b148089e2d9015ef5f577e0f88a6506018eb62a8a6b9"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.i686-w64-mingw32-cxx11.tar.gz"
+[[USalign]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5e49b6987f99a6bc73697387fb1735cffe66bc50"
+libc = "glibc"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "9cdcf0f3f61b9f692824fbf63e45d1c8cece36e9767c4689e539529fda99155e"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[USalign]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "56de9a82bf9225c970161c37cc6bcc7daef024e8"
+libc = "glibc"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "e352044e8a1ec02bd7cfd69bd35302d3dd0cd88607e3cb5d29778779ac8f4646"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[USalign]]
+arch = "x86_64"
+git-tree-sha1 = "ae2e68fad70072debad0a46e2f51d3d29efaf990"
+os = "macos"
+
+    [[USalign.download]]
+    sha256 = "821ec9a49c0a4fdefa31c0148249fe14f49c3e5ae4152b14537e44c0b02efb64"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.x86_64-apple-darwin.tar.gz"
+[[USalign]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4189c0ae8abcec001b38f13ae2a4394bb5799b35"
+libc = "glibc"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "5daf5e0fbde1597ef750a9098cd8e29740d531970740e465edbae677e2b934ae"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.x86_64-linux-gnu-cxx03.tar.gz"
+[[USalign]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3fecf50f77e10e8bf6247434c7737efb381039ae"
+libc = "glibc"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "8f5ca97bc1c46319b9d10c17fd26b388300ba55597937423bcf0262460c2820b"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.x86_64-linux-gnu-cxx11.tar.gz"
+[[USalign]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "54dc58ff931ae30b31be0406b9bc566618d3ea03"
+libc = "musl"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "30df7ac27bc9f6ef283c77154683b9f35feaf285014a5af59fdd170ea1e3f4b2"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.x86_64-linux-musl-cxx03.tar.gz"
+[[USalign]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e4b70c55315315432d37735c231eb5fb5e377bb7"
+libc = "musl"
+os = "linux"
+
+    [[USalign.download]]
+    sha256 = "ccf19310c66dfda3df29a79b236c941fc347f1133d0e40f62fb2b5a28d33fca5"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.x86_64-linux-musl-cxx11.tar.gz"
+[[USalign]]
+arch = "x86_64"
+git-tree-sha1 = "aa7c9217f34f383a9f278a2869005f2262267cb0"
+os = "freebsd"
+
+    [[USalign.download]]
+    sha256 = "3805170af3a86b4ab0be58f35963cda4afc32dd091e46691db37b0de643969b2"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.x86_64-unknown-freebsd.tar.gz"
+[[USalign]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "878d524e46cd2612140dad498e95fb011735924f"
+os = "windows"
+
+    [[USalign.download]]
+    sha256 = "dce2e9c098c21375d43edf35fbee3907c79d98ff784c44e5f2cf8782fd7e31cb"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.x86_64-w64-mingw32-cxx03.tar.gz"
+[[USalign]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0934f820217b55858be1ce6f95a9e4b8f0c764b1"
+os = "windows"
+
+    [[USalign.download]]
+    sha256 = "1285c1331ae353bbf48750a2cd2213009d0e5ddaa8f28898b5db9bbe1f5b6e28"
+    url = "https://github.com/JuliaBinaryWrappers/USalign_jll.jl/releases/download/USalign-v2022.9.24+0/USalign.v2022.9.24.x86_64-w64-mingw32-cxx11.tar.gz"
